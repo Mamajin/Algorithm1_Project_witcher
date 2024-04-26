@@ -1,4 +1,4 @@
-# This project is for 01219217 Data Structure and Algorithm I
+# Project for 01219217 Data Structure and Algorithm I
 ## Phasit Ruangmak ID:6610545391
 ### Before using this program download the following package:
  - networkx
